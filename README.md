@@ -1,5 +1,9 @@
 # adept
 
+I'm not a programmer, so there are probably better ways to code than this. If you have a better way to code, let me know on github/reddit/discord. 
+
+https://www.reddit.com/r/ploopy/comments/1emjdyc/how_i_adept/
+ 
 Here are my mappings at the moment:
 
 Top Left:
